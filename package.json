@@ -9,11 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@openspacelabs/react-native-zoomable-view": "^2.1.1",
     "expo": "~47.0.9",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
     "react-native": "0.70.5",
-    "react-native-gesture-handler": "~2.8.0"
+    "react-native-gesture-handler": "~2.8.0",
+    "react-native-pan-pinch": "^1.0.1",
+    "react-native-pan-pinch-view": "^1.0.1",
+    "react-native-reanimated": "~2.12.0",
+    "expo-updates": "~0.15.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
